@@ -1,5 +1,13 @@
-<img src="static/mew.gif" 
-alt="mew" width="100">
------
+
+<img src="static/mew.gif" alt="mew" width="100"/>
+
+##
+
+<div>
+  <p> Computer Science Student, 22y, Brazil </p>
+  <p2> Current studying C#, Java, SQL </p2>
+</div>
+
+
 ![](static/vscode.svg)![](static/csharp.svg)![](static/java.svg)
 
