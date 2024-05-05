@@ -4,7 +4,7 @@
 ##
 
 <div>
-  <p> Computer Science Student, 22y, Brazil </p>
+  <p> Computer Science Student, 23y, Brazil </p>
   <p2> Current studying C#, Java, SQL </p2>
 </div>
 
